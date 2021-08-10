@@ -8,7 +8,7 @@ My name is Rajath and I am a 21-year-old from India who is always eager to learn
 </samp>
 <br/><br/>
 
-- 👨‍🎓 <samp>Studying Computer Science at the [NMAM Institute of Technology]https://nmamit.nitte.edu.in/)</samp>
+- 👨‍🎓 <samp>Studying Computer Science at the [NMAM Institute of Technology](https://nmamit.nitte.edu.in/)</samp>
 - 🌱 <samp>I’m currently learning about [Flutter](https://flutter.dev/)
 - 💬 <samp>Ask me about [Flutter](https://flutter.dev) / [Dart](https://dart.dev), [C++](https://www.cplusplus.com/) , [Python](https://www.python.org/)</samp>
 
