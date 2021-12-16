@@ -56,3 +56,5 @@ My name is Rajath and I am a 21-year-old from India who is always eager to learn
 <a href="https://stackoverflow.com/users/14299457/rajath-pai">
   <img align="left" alt="DevNico Stackoverflow" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" />
 </a><br/><br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajathpi&" alt="rajathpi" /></p>
