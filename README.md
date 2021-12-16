@@ -1,16 +1,20 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
+<h1 align="center">
+    Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">, I'm Rajath Pai
+</h1>
+<h3 align="center">A passionate Learner</h3>
 
 &nbsp;  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rajatpai)
 
 
 <samp>
-My name is Rajath and I am a 21-year-old from India who is always eager to learn about new and emerging technologies!
+I am a 21-year-old from India who is always eager to learn about new and emerging technologies!
 </samp>
 <br/><br/>
 
 - 👨‍🎓  Studying Computer Science at the [NMAM Institute of Technology](https://www.nmamit.nitte.edu.in/)<br>
 - 🌱  I’m currently learning about [Flutter](https://www.flutter.dev/)<br>
 - 💬  Ask me about [Flutter](https://www.flutter.dev) / [Dart](https://www.dart.dev), [C++](https://www.cplusplus.com/) , [Python](https://www.python.org/)<br>
+- 👨‍💻 You can also check out [my portfolio](https://rajatpai.github.io/)
 
 ### <samp>Some of the Technologies I use</samp> 💻
 
